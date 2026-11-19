@@ -1,69 +1,64 @@
 franchise,studio,title,type,entry,year,notes,budget_usd,worldwide_gross_usd,imdb_rating,metacritic,budget_adj_2025,gross_adj_2025,gross_to_budget
-Cars,Pixar,Cars,Original,1,2006,,120000000,461991867,7.3,73.0,191640343,737802332,3.85
-Cars,Pixar,Cars 2,Sequel,2,2011,,200000000,559852396,6.2,57.0,286249161,801286393,2.8
-Cars,Pixar,Cars 3,Sequel,3,2017,,175000000,383930656,6.7,59.0,229846708,504258270,2.19
-Finding Nemo,Pixar,Finding Nemo,Original,1,2003,,94000000,969023261,8.2,90.0,164508431,1695877623,10.31
-Finding Nemo,Pixar,Finding Dory,Sequel,2,2016,,200000000,1028570889,7.2,77.0,268278009,1379714749,5.14
-Inside Out,Pixar,Inside Out,Original,1,2015,,175000000,857611174,8.1,94.0,237704574,1164903421,4.9
-Inside Out,Pixar,Inside Out 2,Sequel,2,2024,,200000000,1698863816,7.5,73.0,205262537,1743565485,8.49
-"Monsters, Inc.",Pixar,"Monsters, Inc.",Original,1,2001,,115000000,579707738,8.1,79.0,209092858,1054023891,5.04
-"Monsters, Inc.",Pixar,Monsters University,Sequel,2,2013,prequel,200000000,743559607,7.2,65.0,276396932,1027587969,3.72
-The Incredibles,Pixar,The Incredibles,Original,1,2004,,92000000,631606713,8.0,90.0,156810068,1076546645,6.87
-The Incredibles,Pixar,Incredibles 2,Sequel,2,2018,,200000000,1242805359,7.5,80.0,256418977,1593394392,6.21
-Toy Story,Pixar,Toy Story,Original,1,1995,,30000000,394436586,8.3,96.0,63381676,833335069,13.15
-Toy Story,Pixar,Toy Story 2,Sequel,2,1999,,90000000,497400000,7.9,88.0,173944890,961335424,5.53
-Toy Story,Pixar,Toy Story 3,Sequel,3,2010,,200000000,1066969703,8.3,92.0,295284698,1575299130,5.33
-Toy Story,Pixar,Toy Story 4,Sequel,4,2019,,200000000,1073166397,7.6,84.0,251855416,1351413845,5.37
-Toy Story,Pixar,Toy Story 5,Sequel,5,2026,,250000000,1149397987,7.3,73.0,241866730,1112004532,4.6
-Frozen,Disney Animation,Frozen,Original,1,2013,,150000000,1281508100,7.4,75.0,207297699,1771024533,8.54
-Frozen,Disney Animation,Frozen 2,Sequel,2,2019,,150000000,1451653316,6.8,64.0,188891562,1828033746,9.68
-Moana,Disney Animation,Moana,Original,1,2016,,150000000,690845539,7.6,81.0,201208506,926693327,4.61
-Moana,Disney Animation,Moana 2,Sequel,2,2024,,150000000,1059242164,6.3,58.0,153946903,1087113670,7.06
-Wreck-It Ralph,Disney Animation,Wreck-It Ralph,Original,1,2012,,165000000,471222889,7.7,72.0,231367523,660761651,2.86
-Wreck-It Ralph,Disney Animation,Ralph Breaks the Internet,Sequel,2,2018,,175000000,529323962,7.0,71.0,224366605,678643544,3.02
-Zootopia,Disney Animation,Zootopia,Original,1,2016,,150000000,1023784195,8.0,78.0,201208506,1373293925,6.83
-Zootopia,Disney Animation,Zootopia 2,Sequel,2,2025,,150000000,1657039651,7.3,73.0,150000000,1657039651,11.05
-How to Train Your Dragon,DreamWorks,How to Train Your Dragon,Original,1,2010,,165000000,494900000,8.1,75.0,243609875,730681984,3.0
-How to Train Your Dragon,DreamWorks,How to Train Your Dragon 2,Sequel,2,2014,,145000000,621537519,7.8,77.0,197189000,845243873,4.29
-How to Train Your Dragon,DreamWorks,How to Train Your Dragon: The Hidden World,Sequel,3,2019,,129000000,524535083,7.4,71.0,162446743,660535007,4.07
-Kung Fu Panda,DreamWorks,Kung Fu Panda,Original,1,2008,,130000000,631746197,7.6,74.0,194389256,944651333,4.86
-Kung Fu Panda,DreamWorks,Kung Fu Panda 2,Sequel,2,2011,,150000000,665692281,7.3,67.0,214686871,952769284,4.44
-Kung Fu Panda,DreamWorks,Kung Fu Panda 3,Sequel,3,2016,,145000000,521200000,7.1,66.0,194501556,699132490,3.59
-Kung Fu Panda,DreamWorks,Kung Fu Panda 4,Sequel,4,2024,,85000000,550702463,6.3,54.0,87236578,565192924,6.48
-Madagascar,DreamWorks,Madagascar,Original,1,2005,,75000000,542063846,7.0,57.0,123639089,893603736,7.23
-Madagascar,DreamWorks,Madagascar: Escape 2 Africa,Sequel,2,2008,,150000000,603900354,6.7,61.0,224295295,903013389,4.03
-Madagascar,DreamWorks,Madagascar 3: Europe's Most Wanted,Sequel,3,2012,,145000000,746921274,6.8,60.0,203322974,1047353484,5.15
-Shrek,DreamWorks,Shrek,Original,1,2001,,60000000,488351320,7.9,84.0,109091926,887919765,8.14
-Shrek,DreamWorks,Shrek 2,Sequel,2,2004,,150000000,923075336,7.4,75.0,255668588,1573342455,6.15
-Shrek,DreamWorks,Shrek the Third,Sequel,3,2007,,160000000,813367380,6.1,58.0,248434374,1262927600,5.08
-Shrek,DreamWorks,Shrek Forever After,Sequel,4,2010,,165000000,752600867,6.4,58.0,243609875,1111157597,4.56
-Spirit: Stallion of the Cimarron,DreamWorks,Spirit: Stallion of the Cimarron,Original,1,2002,,80000000,122563539,7.2,52.0,143185212,219366079,1.53
-Spirit: Stallion of the Cimarron,DreamWorks,Spirit Untamed,Sequel,2,2021,,30000000,42235744,5.5,49.0,35643392,50180840,1.41
-The Bad Guys,DreamWorks,The Bad Guys,Original,1,2022,,74500000,245713440,6.9,64.0,81955728,270303675,3.3
-The Bad Guys,DreamWorks,The Bad Guys 2,Sequel,2,2025,,80000000,240890734,7.0,64.0,80000000,240890734,3.01
-The Boss Baby,DreamWorks,The Boss Baby,Original,1,2017,,125000000,527965936,6.3,50.0,164176220,693435612,4.22
-The Boss Baby,DreamWorks,The Boss Baby: Family Business,Sequel,2,2021,pandemic release (same day on streaming),82000000,146745280,5.8,39.0,97425272,174349986,1.79
-The Croods,DreamWorks,The Croods,Original,1,2013,,135000000,587204668,7.1,55.0,186567929,811507842,4.35
-The Croods,DreamWorks,The Croods: A New Age,Sequel,2,2020,pandemic release,65000000,214766238,6.9,56.0,80855508,267154360,3.3
-Trolls,DreamWorks,Trolls,Original,1,2016,,125000000,346900000,6.4,55.0,167673755,465328206,2.78
-Trolls,DreamWorks,Trolls World Tour,Sequel,2,2020,pandemic release (mostly premium streaming),,,6.1,51.0,,,
-Trolls,DreamWorks,Trolls Band Together,Sequel,3,2023,,95000000,209397574,6.0,53.0,100375400,221245949,2.2
-Despicable Me,Illumination,Despicable Me,Original,1,2010,,69000000,543113985,7.6,72.0,101873221,801866244,7.87
-Despicable Me,Illumination,Despicable Me 2,Sequel,2,2013,,76000000,970766005,7.3,62.0,105030834,1341583726,12.77
-Despicable Me,Illumination,Despicable Me 3,Sequel,3,2017,,75000000,1034799409,6.3,49.0,98505732,1359115642,13.8
-Despicable Me,Illumination,Despicable Me 4,Sequel,4,2024,,100000000,972964428,6.2,52.0,102631269,998565735,9.73
-Sing,Illumination,Sing,Original,1,2016,,75000000,634151679,7.1,59.0,100604253,850644748,8.46
-Sing,Illumination,Sing 2,Sequel,2,2021,,85000000,404783394,7.3,49.0,100989611,480928443,4.76
-The Secret Life of Pets,Illumination,The Secret Life of Pets,Original,1,2016,,75000000,875457937,6.5,61.0,100604253,1174330560,11.67
-The Secret Life of Pets,Illumination,The Secret Life of Pets 2,Sequel,2,2019,,80000000,446449908,6.4,55.0,100742166,562204136,5.58
-Cloudy with a Chance of Meatballs,Sony Animation,Cloudy with a Chance of Meatballs,Original,1,2009,,100000000,243000000,6.9,66.0,150064092,364655742,2.43
-Cloudy with a Chance of Meatballs,Sony Animation,Cloudy with a Chance of Meatballs 2,Sequel,2,2013,,78000000,274325949,6.3,59.0,107794803,379114253,3.52
-Hotel Transylvania,Sony Animation,Hotel Transylvania,Original,1,2012,,85000000,358400000,7.1,47.0,119189330,502558304,4.22
-Hotel Transylvania,Sony Animation,Hotel Transylvania 2,Sequel,2,2015,,80000000,474800000,6.6,44.0,108664948,644926467,5.93
-Hotel Transylvania,Sony Animation,Hotel Transylvania 3: Summer Vacation,Sequel,3,2018,,65000000,528583774,6.3,54.0,83336167,677694552,8.13
-Spider-Man: Into the Spider-Verse,Sony Animation,Spider-Man: Into the Spider-Verse,Original,1,2018,,90000000,375464627,8.4,87.0,115388540,481381277,4.17
-Spider-Man: Into the Spider-Verse,Sony Animation,Spider-Man: Across the Spider-Verse,Sequel,2,2023,,100000000,690824738,8.5,86.0,105658315,729913780,6.91
-The Angry Birds Movie,Sony Animation,The Angry Birds Movie,Original,1,2016,,73000000,352333929,6.3,43.0,97921473,472617224,4.83
-The Angry Birds Movie,Sony Animation,The Angry Birds Movie 2,Sequel,2,2019,,65000000,142544264,6.4,60.0,81853010,179502724,2.19
-Super Mario,Illumination,The Super Mario Bros. Movie,Original,1,2023,added by hand: not linked as a franchise in Wikidata,100000000,1359226275,7,46,105658315,1436135584,13.59
-Super Mario,Illumination,The Super Mario Galaxy Movie,Sequel,2,2026,added by hand: not linked as a franchise in Wikidata,110000000,1011921543,,37,106421361,979000620,9.2
+Cars,Pixar,Cars,Original,1,2006,,120000000,461991867,7.3,73,191640660,737803552,3.85
+Cars,Pixar,Cars 2,Sequel,2,2011,,200000000,559852396,6.2,57,286248949,801285799,2.8
+Cars,Pixar,Cars 3,Sequel,3,2017,,175000000,383930656,6.7,59,229847098,504259127,2.19
+Finding Nemo,Pixar,Finding Nemo,Original,1,2003,,94000000,969023261,8.2,90,164508133,1695874550,10.31
+Finding Nemo,Pixar,Finding Dory,Sequel,2,2016,,200000000,1028570889,7.2,77,268277822,1379713791,5.14
+Inside Out,Pixar,Inside Out,Original,1,2015,,175000000,857611174,8.1,94,237704574,1164903421,4.9
+Inside Out,Pixar,Inside Out 2,Sequel,2,2024,,200000000,1698863816,7.5,73,205262646,1743566412,8.49
+"Monsters, Inc.",Pixar,"Monsters, Inc.",Original,1,2001,,115000000,579707738,8.1,79,209093251,1054025875,5.04
+"Monsters, Inc.",Pixar,Monsters University,Sequel,2,2013,prequel,200000000,743559607,7.2,65,276396833,1027587602,3.72
+The Incredibles,Pixar,The Incredibles,Original,1,2004,,92000000,631606713,8,90,156809791,1076544745,6.87
+The Incredibles,Pixar,Incredibles 2,Sequel,2,2018,,200000000,1242805359,7.5,80,256419147,1593395450,6.21
+Toy Story,Pixar,Toy Story,Original,1,1995,,30000000,394436586,8.3,96,63381538,833333246,13.15
+Toy Story,Pixar,Toy Story 2,Sequel,2,1999,,90000000,497400000,7.9,88,173944890,961335424,5.53
+Toy Story,Pixar,Toy Story 3,Sequel,3,2010,,200000000,1066969703,8.3,92,295285375,1575302742,5.33
+Toy Story,Pixar,Toy Story 4,Sequel,4,2019,,200000000,1073166397,7.6,84,251855005,1351411642,5.37
+Toy Story,Pixar,Toy Story 5,Sequel,5,2026,,250000000,1149397987,7.3,73,241866440,1112003195,4.6
+Frozen,Disney Animation,Frozen,Original,1,2013,,150000000,1281508100,7.4,75,207297625,1771023900,8.54
+Frozen,Disney Animation,Frozen 2,Sequel,2,2019,,150000000,1451653316,6.8,64,188891254,1828030767,9.68
+Moana,Disney Animation,Moana,Original,1,2016,,150000000,690845539,7.6,81,201208367,926692684,4.61
+Moana,Disney Animation,Moana 2,Sequel,2,2024,,150000000,1059242164,6.3,58,153946985,1087114248,7.06
+Wreck-It Ralph,Disney Animation,Wreck-It Ralph,Original,1,2012,,165000000,471222889,7.7,72,231367607,660761891,2.86
+Wreck-It Ralph,Disney Animation,Ralph Breaks the Internet,Sequel,2,2018,,175000000,529323962,7,71,224366754,678643994,3.02
+Zootopia,Disney Animation,Zootopia,Original,1,2016,,150000000,1023784195,8,78,201208367,1373292971,6.83
+Zootopia,Disney Animation,Zootopia 2,Sequel,2,2025,,150000000,1657039651,7.3,73,150000000,1657039651,11.05
+How to Train Your Dragon,DreamWorks,How to Train Your Dragon,Original,1,2010,,165000000,494900000,8.1,75,243610434,730683659,3
+How to Train Your Dragon,DreamWorks,How to Train Your Dragon 2,Sequel,2,2014,,145000000,621537519,7.8,77,197188861,845243278,4.29
+How to Train Your Dragon,DreamWorks,How to Train Your Dragon: The Hidden World,Sequel,3,2019,,129000000,524535083,7.4,71,162446478,660533930,4.07
+Kung Fu Panda,DreamWorks,Kung Fu Panda,Original,1,2008,,130000000,631746197,7.6,74,194389708,944653527,4.86
+Kung Fu Panda,DreamWorks,Kung Fu Panda 2,Sequel,2,2011,,150000000,665692281,7.3,67,214686712,952768578,4.44
+Kung Fu Panda,DreamWorks,Kung Fu Panda 3,Sequel,3,2016,,145000000,521200000,7.1,66,194501421,699132005,3.59
+Kung Fu Panda,DreamWorks,Kung Fu Panda 4,Sequel,4,2024,,85000000,550702463,6.3,54,87236625,565193224,6.48
+Madagascar,DreamWorks,Madagascar,Original,1,2005,,75000000,542063846,7,57,123639300,893605261,7.23
+Madagascar,DreamWorks,Madagascar: Escape 2 Africa,Sequel,2,2008,,150000000,603900354,6.7,61,224295816,903015486,4.03
+Madagascar,DreamWorks,Madagascar 3: Europe's Most Wanted,Sequel,3,2012,,145000000,746921274,6.8,60,203323048,1047353864,5.15
+Shrek,DreamWorks,Shrek,Original,1,2001,,60000000,488351320,7.9,84,109092131,887921436,8.14
+Shrek,DreamWorks,Shrek 2,Sequel,2,2004,,150000000,923075336,7.4,75,255668137,1573339678,6.15
+Shrek,DreamWorks,Shrek the Third,Sequel,3,2007,,160000000,813367380,6.1,58,248433875,1262925062,5.08
+Shrek,DreamWorks,Shrek Forever After,Sequel,4,2010,,165000000,752600867,6.4,58,243610434,1111160145,4.56
+Spirit: Stallion of the Cimarron,DreamWorks,Spirit: Stallion of the Cimarron,Original,1,2002,,80000000,122563539,7.2,52,143185212,219366079,1.53
+Spirit: Stallion of the Cimarron,DreamWorks,Spirit Untamed,Sequel,2,2021,,30000000,42235744,5.5,49,35643425,50180886,1.41
+The Bad Guys,DreamWorks,The Bad Guys,Original,1,2022,,74500000,245713440,6.9,64,81955751,270303752,3.3
+The Bad Guys,DreamWorks,The Bad Guys 2,Sequel,2,2025,,80000000,240890734,7,64,80000000,240890734,3.01
+The Boss Baby,DreamWorks,The Boss Baby,Original,1,2017,,125000000,527965936,6.3,50,164176499,693436791,4.22
+The Boss Baby,DreamWorks,The Boss Baby: Family Business,Sequel,2,2021,pandemic release (same day on streaming),82000000,146745280,5.8,39,97425362,174350147,1.79
+The Croods,DreamWorks,The Croods,Original,1,2013,,135000000,587204668,7.1,55,186567862,811507552,4.35
+The Croods,DreamWorks,The Croods: A New Age,Sequel,2,2020,pandemic release,65000000,214766238,6.9,56,80855456,267154188,3.3
+Despicable Me,Illumination,Despicable Me,Original,1,2010,,69000000,543113985,7.6,72,101873454,801868083,7.87
+Despicable Me,Illumination,Despicable Me 2,Sequel,2,2013,,76000000,970766005,7.3,62,105030796,1341583246,12.77
+Despicable Me,Illumination,Despicable Me 3,Sequel,3,2017,,75000000,1034799409,6.3,49,98505899,1359117952,13.8
+Despicable Me,Illumination,Despicable Me 4,Sequel,4,2024,,100000000,972964428,6.2,52,102631323,998566266,9.73
+Sing,Illumination,Sing,Original,1,2016,,75000000,634151679,7.1,59,100604183,850644157,8.46
+Sing,Illumination,Sing 2,Sequel,2,2021,,85000000,404783394,7.3,49,100989705,480928887,4.76
+The Secret Life of Pets,Illumination,The Secret Life of Pets,Original,1,2016,,75000000,875457937,6.5,61,100604183,1174329744,11.67
+The Secret Life of Pets,Illumination,The Secret Life of Pets 2,Sequel,2,2019,,80000000,446449908,6.4,55,100742002,562203219,5.58
+Cloudy with a Chance of Meatballs,Sony Animation,Cloudy with a Chance of Meatballs,Original,1,2009,,100000000,243000000,6.9,66,150064092,364655742,2.43
+Cloudy with a Chance of Meatballs,Sony Animation,Cloudy with a Chance of Meatballs 2,Sequel,2,2013,,78000000,274325949,6.3,59,107794765,379114117,3.52
+Hotel Transylvania,Sony Animation,Hotel Transylvania,Original,1,2012,,85000000,358400000,7.1,47,119189373,502558486,4.22
+Hotel Transylvania,Sony Animation,Hotel Transylvania 2,Sequel,2,2015,,80000000,474800000,6.6,44,108664948,644926467,5.93
+Hotel Transylvania,Sony Animation,Hotel Transylvania 3: Summer Vacation,Sequel,3,2018,,65000000,528583774,6.3,54,83336223,677695002,8.13
+Spider-Man: Into the Spider-Verse,Sony Animation,Spider-Man: Into the Spider-Verse,Original,1,2018,,90000000,375464627,8.4,87,115388616,481381597,4.17
+Spider-Man: Into the Spider-Verse,Sony Animation,Spider-Man: Across the Spider-Verse,Sequel,2,2023,,100000000,690824738,8.5,86,105658460,729914778,6.91
+The Angry Birds Movie,Sony Animation,The Angry Birds Movie,Original,1,2016,,73000000,352333929,6.3,43,97921405,472616896,4.83
+The Angry Birds Movie,Sony Animation,The Angry Birds Movie 2,Sequel,2,2019,,65000000,142544264,6.4,60,81852877,179502432,2.19
